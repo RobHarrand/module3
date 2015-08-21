@@ -27,6 +27,7 @@ Output file variables
 ---------------------
 
 Subject (no units) - The subject number
+
 Activity (no units) - The activity description
 
 The following are AVERAGES of the variable decription (calculated per subject and per activity)...
