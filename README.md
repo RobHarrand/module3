@@ -1,3 +1,5 @@
+(To my evaluators - Please note I first did this course several months ago without certification, and I'm now resubmitting on the Signature track. This is why the date on this repo is several months old)
+
 This repo is to fulfil the requirements for module 3 of the Coursera data-science specialisation ('Gathering and Cleaning Data')
 
 All manipulation and tranformations for this module are done with the script 'run_analysis.R'
